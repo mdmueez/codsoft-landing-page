@@ -75,7 +75,7 @@ button{
     border-radius:25px;
     font-weight:bold;
     border:2px solid #009688;
-    /* background-color: #49fde2; */
+    background-color: #49fde2;
     color:#fff;
     cursor:pointer;
     position:relative;
@@ -83,8 +83,8 @@ button{
 }
 
 button:hover {
-   /*  background-color: rgb(130, 98, 203); */
-   scale: 1.02;
+   background-color: rgb(130, 98, 203);
+   transition: ease-in-out 0.5s;
 }
 
 span{
