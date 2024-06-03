@@ -5,11 +5,10 @@
 }
 .banner{
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background-image: url(https://media.designcafe.com/wp-content/uploads/2023/01/31151510/contemporary-interior-design-ideas-for-your-home.jpg);
-    /* background-image: linear-gradient
-    (rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://o.remove.bg/uploads/3ff58488-5f5f-4b5c-aa66-1f8f39ab9372/5.jpg); */
-    background-position:center;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
   
